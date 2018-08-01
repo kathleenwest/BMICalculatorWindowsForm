@@ -1,0 +1,10 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\obj\Debug\BMICalculator.MainForm.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.Cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming for Beginners\Assignments\Assignment3\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
