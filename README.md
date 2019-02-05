@@ -1,5 +1,7 @@
 # BMICalculatorWindowsForm
 
+Project Blog Article is Here: https://portfolio.katiegirl.net/2018/08/01/body-mass-index-bmi-calculator/
+
 1. Objectives
 
 The main assignment objectives are:
